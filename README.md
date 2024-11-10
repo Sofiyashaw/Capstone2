@@ -1,4 +1,4 @@
-                                                    Sign Language Detection - ASL Dataset
+                                              Sign Language Detection - ASL Dataset
 <p align="center">
     <img src="https://github.com/Sofiyashaw/Capstone2/blob/main/sign-language.jpg" alt="Logo" width="500" height="350"/>
 </p> 
